@@ -2,7 +2,7 @@
 
 This was a project developed by Inês Rocha, Isabel Dias, Joana Sousa and Rafael Dinis. 
 
-This project was developed within the scope of the Reinforcement Learning class at Nova IMS.
+This project was developed within the scope of the Reinforcement Learning course at Nova IMS.
 
 The primary objective of this project is to develop an **RL agent that can play chess at a high level of proficiency**.
 
